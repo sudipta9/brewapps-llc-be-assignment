@@ -13,7 +13,7 @@ The Bookstore API allows users to manage books and user accounts. This documenta
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/sudipta9/brewapps-llc-be-assignment.git
     ```
 
 2. Install dependencies:

@@ -22,7 +22,7 @@ The Bookstore API allows users to manage books and user accounts. This documenta
    npm install
    ```
 
-3. Create a `.env` file in the project root and configure the following environment variables:
+3. Create a `.env` file in the project root and configure the following environment variables or add below variables to server environment:
 
    ```bash
    MONGODB_URI=your-mongodb-connection-string
